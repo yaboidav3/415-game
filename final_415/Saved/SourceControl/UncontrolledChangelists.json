@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alleng2/415-game/final_415/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/alleng2/415-game/final_415/Content/UI/HealthBarWidget.uasset",
+				"C:/Users/alleng2/415-game/final_415/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/alleng2/415-game/final_415/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/David/OneDrive/Documents/Unreal Projects/final_415/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
