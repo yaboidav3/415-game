@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jjchen10/Desktop/415-game/final_415/Content/Blueprints/BP_enemy.uasset",
+				"C:/Users/jjchen10/Desktop/415-game/final_415/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/C4/D7DY1LLBLO8H1U9AYAAAC4.uasset",
+				"C:/Users/jjchen10/Desktop/415-game/final_415/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/jjchen10/Desktop/415-game/final_415/Content/Blueprints/enemy_ai.uasset",
 				"C:/Users/alleng2/415-game/final_415/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
 				"C:/Users/alleng2/415-game/final_415/Content/UI/HealthBarWidget.uasset",
 				"C:/Users/alleng2/415-game/final_415/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
