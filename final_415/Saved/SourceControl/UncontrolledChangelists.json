@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/David/OneDrive/Documents/Unreal Projects/415-game/final_415/Content/Maps/Map_1108.umap",
 				"C:/Users/Allen Guo/415-game/final_415/Content/UI/RestartWidget.uasset",
 				"C:/Users/Allen Guo/415-game/final_415/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Allen Guo/415-game/final_415/Content/UI/MainMenuWidget.uasset",
@@ -14,6 +13,8 @@
 				"C:/Users/Allen Guo/415-game/final_415/Content/UI/CrosshairWidget.uasset",
 				"C:/Users/Allen Guo/415-game/final_415/Content/UI/HealthBarWidget.uasset",
 				"C:/Users/Allen Guo/415-game/final_415/Content/UI/purple-crosshair.uasset",
+				"C:/Users/Allen Guo/415-game/final_415/Content/Blueprints/BP_enemy.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/415-game/final_415/Content/Maps/Map_1108.umap",
 				"C:/Users/jjchen10/Desktop/415-game/final_415/Content/Blueprints/BP_enemy.uasset",
 				"C:/Users/jjchen10/Desktop/415-game/final_415/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/C4/D7DY1LLBLO8H1U9AYAAAC4.uasset",
 				"C:/Users/jjchen10/Desktop/415-game/final_415/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
