@@ -1,8 +1,0 @@
-{
-	"BuildId": "25360045",
-	"Modules": 
-	{
-		"ProceduralTree": "UnrealEditor-ProceduralTree.dll",
-		"ProceduralTreeEditor": "UnrealEditor-ProceduralTreeEditor.dll"
-	}
-}

@@ -10,11 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "ProceduralTree",
-			"Enabled": true,
-			"MarketplaceURL": "https://unrealengineresources.com/plugins"
 		}
 	]
 }
