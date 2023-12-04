@@ -1344,3 +1344,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.04-04.51.44:723][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.12.04-04.51.44:727][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
 [2023.12.04-04.51.44:791][620]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.12.04-04.52.31:174][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-04.52.31:349][852]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.12.04-04.52.31:351][852]LogSavePackage: Moving '../../../../../../Users/Allen Guo/415-game/final_415/Saved/BP_FirstPersonCharacter765A956F4AD8990C50C9A494887B1F14.tmp' to '../../../../../../Users/Allen Guo/415-game/final_415/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.12.04-04.52.31:361][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 659 ms)
+[2023.12.04-04.52.31:369][852]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.12.04-04.52.31:369][852]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.12.04-04.52.33:111][922]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2023.12.04-04.52.33:123][922]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2023.12.04-04.52.33:128][922]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-04.52.33:129][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
