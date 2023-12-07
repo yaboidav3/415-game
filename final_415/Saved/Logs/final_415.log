@@ -1735,3 +1735,15 @@ Script call stack:
 [2023.12.07-04.11.18:637][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.12.07-04.11.18:642][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
 [2023.12.07-04.11.18:701][453]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.12.07-04.12.21:075][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.12.07-04.12.21:102][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.12.07-04.12.22:438][759]LogSlate: Window 'Save Content' being destroyed
+[2023.12.07-04.12.22:475][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-04.12.22:600][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.12.07-04.12.22:627][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.12.07-04.12.22:656][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.12.07-04.12.22:661][759]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/U6/GREAA0QUBJBYIZBL4W2K60
+[2023.12.07-04.12.22:663][759]LogSavePackage: Moving '../../../../../../Users/Allen Guo/415-game/final_415/Saved/GREAA0QUBJBYIZBL4W2K60176B00DD406C6311D21818992E9EEC2B.tmp' to '../../../../../../Users/Allen Guo/415-game/final_415/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/U6/GREAA0QUBJBYIZBL4W2K60.uasset'
+[2023.12.07-04.12.22:685][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 209 ms (total: 1.23 sec)
+[2023.12.07-04.12.22:697][759]AssetCheck: New page: Asset Save: Level_switch_C_UAID_001A7DDA711517C201_1536018071
+[2023.12.07-04.12.22:697][759]LogContentValidation: Display: Validating /Game/Blueprints/Level_switch.Level_switch_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Level_switch_C_UAID_001A7DDA711517C201_1536018071
